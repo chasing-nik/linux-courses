@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1429616807 source:d:\labs\carchiver\huffman.c
+	"huffman.h"
+	<stdlib.h>
+	<stdio.h>
+
+1429523141 d:\labs\carchiver\huffman.h
+	<stdio.h>
+	"huffmancode.h"
+	"bufferedbitfile.h"
+
+1429620448 source:d:\labs\carchiver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"huffman.h"
+
+1429620448 source:d:\labs\carchiver\bufferedbitfile.c
+	"bufferedbitfile.h"
+	<stdlib.h>
+
+1429563339 d:\labs\carchiver\bufferedbitfile.h
+	"huffmancode.h"
+	<stdio.h>
+
+1429465484 d:\labs\carchiver\huffmancode.h
+
+1429516738 source:d:\labs\carchiver\huffmancode.c
+	"huffmancode.h"
+	<stdlib.h>
+

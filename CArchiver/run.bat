@@ -1,0 +1,1 @@
+start "" "D:\Labs\CArchiver\bin\Debug\CArchiver.exe" D:\Labs\CArchiver\test\1.dsl -c D:\Labs\CArchiver\test\1.dsl.car
